@@ -7,9 +7,5 @@
 	<classpathentry kind="lib" path="E:/workspace/hass/lib/log4j-1.2.17.jar"/>
 	<classpathentry kind="lib" path="E:/workspace/hass/lib/slf4j-api-1.7.13.jar"/>
 	<classpathentry kind="lib" path="E:/workspace/hass/lib/slf4j-log4j12-1.7.13.jar"/>
-	<classpathentry kind="lib" path="E:/workspace/hass/lib/biojava-alignment-4.1.0.jar"/>
-	<classpathentry kind="lib" path="E:/workspace/hass/lib/biojava-core-4.1.0.jar"/>
-	<classpathentry kind="lib" path="E:/workspace/hass/lib/biojava-genome-4.1.0.jar"/>
-	<classpathentry kind="lib" path="E:/workspace/hass/lib/forester-1.038.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
